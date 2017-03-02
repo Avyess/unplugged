@@ -1,0 +1,14 @@
+
+# IMAGES
+#all files within img dir are ignored via [^.]* inclusion on img/.gitignore
+.jpg
+.jpeg
+.png
+.tiff
+.tif
+
+/doc
+LICENSE.txt
+
+.DS_Store
+Thumbs.db
